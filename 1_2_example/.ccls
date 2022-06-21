@@ -1,0 +1,3 @@
+clang++
+%cxx -std=c++17
+%cxx -I./build/install/include

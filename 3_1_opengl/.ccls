@@ -1,0 +1,2 @@
+clang++
+-I ./build/install/include
